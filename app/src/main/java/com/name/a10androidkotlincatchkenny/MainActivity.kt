@@ -103,14 +103,7 @@ class MainActivity : AppCompatActivity() {
             }
         }
         handler.post(runnable)
-        /*
-        git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/mesutKoc77/AndroidKotlinCatachKenny.git
-git push -u origin main
-         */
+
 
     }
 
